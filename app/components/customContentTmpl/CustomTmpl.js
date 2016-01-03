@@ -54,7 +54,7 @@ class CustomTmpl extends React.Component {
             <div>
                 <div className={styles.info}>
                     Here we have used a custom content template. See source code and docs for more details.<br/><br/>
-                    You'll find source code of this demo here: ... <br/>
+                    You'll find source code of this demo here: <a href="https://github.com/juliancwirko/react-s-alert-demo" className={styles.link}>github.com/juliancwirko/react-s-alert-demo</a> <br/>
                     You'll find docs and source code of the react-s-alert component here: <a href="https://github.com/juliancwirko/react-s-alert" className={styles.link}>github.com/juliancwirko/react-s-alert</a> <br/>
                     If you want to contact me: <a href="http://julian.io" className={styles.link}>julian.io</a>
                 </div>

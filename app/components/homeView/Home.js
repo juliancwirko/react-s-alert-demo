@@ -174,7 +174,7 @@ class Home extends React.Component {
             <div className={styles.cf}>
                 <div className={styles.info}>
                     You can click multiple times to see stacking. Also all alerts has timeout. This could be disabled. <br/><br/>
-                    You'll find source code of this demo here: ... <br/>
+                    You'll find source code of this demo here: <a href="https://github.com/juliancwirko/react-s-alert-demo" className={styles.link}>github.com/juliancwirko/react-s-alert-demo</a> <br/>
                     You'll find docs and source code of the react-s-alert component here: <a href="https://github.com/juliancwirko/react-s-alert" className={styles.link}>github.com/juliancwirko/react-s-alert</a> <br/>
                     If you want to contact me: <a href="http://julian.io" className={styles.link}>julian.io</a>
                 </div>
