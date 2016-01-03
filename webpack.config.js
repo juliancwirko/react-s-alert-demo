@@ -1,6 +1,3 @@
-var sGrid = require('s-grid');
-var rupture = require('rupture');
-var autoprefixer = require('autoprefixer');
 var path = require('path');
 var webpack = require('webpack');
 
