@@ -2,14 +2,6 @@ import React from 'react';
 import buttonsStyles from '../main/buttons.css';
 import styles from './home.css';
 import Alert from 'react-s-alert';
-import 'react-s-alert/dist/s-alert-default.css';
-import 'react-s-alert/dist/s-alert-css-effects/slide.css';
-import 'react-s-alert/dist/s-alert-css-effects/scale.css';
-import 'react-s-alert/dist/s-alert-css-effects/flip.css';
-import 'react-s-alert/dist/s-alert-css-effects/jelly.css';
-import 'react-s-alert/dist/s-alert-css-effects/stackslide.css';
-import 'react-s-alert/dist/s-alert-css-effects/genie.css';
-import 'react-s-alert/dist/s-alert-css-effects/bouncyflip.css';
 
 class Home extends React.Component {
     // conditions
