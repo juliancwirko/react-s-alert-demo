@@ -1,0 +1,47 @@
+{
+  "name": "react-s-alert-demo",
+  "version": "1.0.0",
+  "description": "React alerts/notifications demo project",
+  "scripts": {
+    "start": "node server.js",
+    "dist": "webpack -p --config webpack.prod.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliancwirko/react-s-alert-demo.git"
+  },
+  "author": "Julian Ćwirko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliancwirko/react-s-alert-demo/issues"
+  },
+  "homepage": "https://github.com/juliancwirko/react-s-alert-demo",
+  "dependencies": {
+    "history": "~1.13.1",
+    "normalize.css": "^3.0.3",
+    "react": "~0.14.3",
+    "react-dom": "~0.14.3",
+    "react-router": "~1.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "~6.2.1",
+    "babel-eslint": "~4.1.5",
+    "babel-jest": "^6.0.1",
+    "babel-loader": "~6.2.0",
+    "babel-preset-es2015": "~6.1.18",
+    "babel-preset-react": "~6.1.18",
+    "babel-preset-stage-0": "~6.1.18",
+    "css-loader": "~0.23.0",
+    "es6-promise": "~3.0.2",
+    "eslint": "~1.10.3",
+    "eslint-plugin-react": "~3.11.1",
+    "file-loader": "~0.8.5",
+    "node-libs-browser": "~0.5.3",
+    "react-addons-test-utils": "~0.14.3",
+    "react-hot-loader": "~1.3.0",
+    "style-loader": "~0.13.0",
+    "url-loader": "~0.5.7",
+    "webpack": "~1.12.9",
+    "webpack-dev-server": "~1.14.0"
+  }
+}
