@@ -121,7 +121,7 @@ class Home extends React.Component {
         e.preventDefault();
         Alert.warning('Test message offset!', {
             position: 'top-right',
-            effect: 'bouncyflip',
+            effect: 'flip',
             offset: 80
         });
     }
