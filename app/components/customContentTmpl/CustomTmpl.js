@@ -66,6 +66,12 @@ class CustomTmpl extends React.Component {
                     <a href="#" className={buttonsStyles.buttonSuccess} onClick={this.handleSuccess}>Success</a>
                     <a href="#" className={buttonsStyles.buttonDefault} onClick={this.handleCloseAll}>Close All</a>
                 </div>
+                <div className={styles.info}>
+                    <hr/>
+                    <strong>Also check out:</strong> <br/>
+                    <a href="https://github.com/juliancwirko/react-boilerplate" className={styles.link}>React Boilerplate with Webpack</a> <br/>
+                    <a href="https://github.com/juliancwirko/react-npm-boilerplate" className={styles.link}>Boilerplate for creating React Npm packages with ES2015</a>
+                </div>
                 <Alert stack={true} timeout='none' contentTemplate={MyCustomContentTemplate} />
             </div>
         )

@@ -228,6 +228,12 @@ class Home extends React.Component {
                     <a href="#" className={buttonsStyles.buttonError} onClick={this.handleOnClose}>onClose callback</a>
                     <a href="#" className={buttonsStyles.buttonDefault} onClick={this.handleCloseAll}>Close All</a>
                 </div>
+                <div className={styles.info}>
+                    <hr/>
+                    <strong>Also check out:</strong> <br/>
+                    <a href="https://github.com/juliancwirko/react-boilerplate" className={styles.link}>React Boilerplate with Webpack</a> <br/>
+                    <a href="https://github.com/juliancwirko/react-npm-boilerplate" className={styles.link}>Boilerplate for creating React Npm packages with ES2015</a>
+                </div>
                 <Alert stack={true} timeout={3000} />
             </div>
         )
