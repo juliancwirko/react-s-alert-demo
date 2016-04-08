@@ -140,7 +140,7 @@ class Home extends React.Component {
         Alert.error('Test message with beep!', {
             position: 'top-right',
             effect: 'flip',
-            beep: 'http://s-alert-demo.meteor.com/beep.mp3'
+            beep: 'http://s-alert-demo.meteorapp.com/beep.mp3'
         });
     }
     // callbacks
