@@ -18,6 +18,7 @@
   "homepage": "https://github.com/juliancwirko/react-s-alert-demo",
   "dependencies": {
     "history": "^1.17.0",
+    "lodash": "^4.17.2",
     "normalize.css": "^4.0.0",
     "react": "~15.0.0",
     "react-dom": "~15.0.0",
