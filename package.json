@@ -1,6 +1,6 @@
 {
   "name": "react-s-alert-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React alerts/notifications demo project",
   "scripts": {
     "start": "node server.js",
@@ -17,31 +17,31 @@
   },
   "homepage": "https://github.com/juliancwirko/react-s-alert-demo",
   "dependencies": {
-    "history": "^1.17.0",
+    "history": "^4.4.1",
     "lodash": "^4.17.2",
-    "normalize.css": "^4.0.0",
-    "react": "~15.0.0",
-    "react-dom": "~15.0.0",
-    "react-router": "~1.0.0",
-    "react-s-alert": "~1.1.0"
+    "normalize.css": "^5.0.0",
+    "react": "~15.4.1",
+    "react-dom": "~15.4.1",
+    "react-router": "~3.0.0",
+    "react-s-alert": "~1.2.2"
   },
   "devDependencies": {
-    "babel-core": "^6.7.4",
-    "babel-eslint": "^6.0.2",
-    "babel-loader": "^6.2.4",
-    "babel-preset-es2015": "^6.6.0",
-    "babel-preset-react": "^6.5.0",
-    "babel-preset-stage-0": "^6.5.0",
-    "css-loader": "^0.23.1",
-    "es6-promise": "^3.1.2",
-    "eslint": "^2.5.1",
-    "eslint-plugin-react": "^4.2.3",
-    "file-loader": "^0.8.5",
-    "node-libs-browser": "^1.0.0",
-    "react-hot-loader": "^1.3.0",
+    "babel-core": "^6.20.0",
+    "babel-eslint": "^7.1.1",
+    "babel-loader": "^6.2.9",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "css-loader": "^0.26.1",
+    "es6-promise": "^4.0.5",
+    "eslint": "^3.12.0",
+    "eslint-plugin-react": "^6.8.0",
+    "file-loader": "^0.9.0",
+    "node-libs-browser": "^2.0.0",
+    "react-hot-loader": "^3.0.0-beta.6",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
-    "webpack": "^1.12.14",
-    "webpack-dev-server": "^1.14.1"
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
   }
 }
