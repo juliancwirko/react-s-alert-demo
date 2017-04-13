@@ -176,7 +176,7 @@ class Home extends React.Component {
                     You can click multiple times to see stacking. Also all alerts has timeout. This could be disabled. <br/><br/>
                     You'll find source code of this demo here: <a href="https://github.com/juliancwirko/react-s-alert-demo" className={styles.link}>github.com/juliancwirko/react-s-alert-demo</a> <br/>
                     You'll find docs and source code of the react-s-alert component here: <a href="https://github.com/juliancwirko/react-s-alert" className={styles.link}>github.com/juliancwirko/react-s-alert</a> <br/>
-                    If you want to contact me: <a href="http://julian.io" className={styles.link}>julian.io</a>
+                    If you want to contact me: <a href="http://julian.io" className={styles.link}>julian.io</a> | <a href="http://www.psd2meteor.com" className={styles.link}>Meteor/React/GrpahQL apps development</a>
                 </div>
                 <div className={styles.cf}>
                     <h3>Different conditions: </h3>
@@ -231,6 +231,8 @@ class Home extends React.Component {
                 <div className={styles.info}>
                     <hr/>
                     <strong>Also check out:</strong> <br/>
+                    <a href="https://www.simplechat.support/">Open Source Live Chat App built with Meteor</a> <br/>
+                    <a href="http://stylusgrid.com/">Stylus Flexbox Grid</a> <br/>
                     <a href="https://github.com/juliancwirko/react-boilerplate" className={styles.link}>React Boilerplate with Webpack</a> <br/>
                     <a href="https://github.com/juliancwirko/react-npm-boilerplate" className={styles.link}>Boilerplate for creating React Npm packages with ES2015</a>
                 </div>
