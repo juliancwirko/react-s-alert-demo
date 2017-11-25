@@ -4,7 +4,7 @@ This is a demo website for [react-s-alert](https://github.com/juliancwirko/react
 
 You can see it live here: [react-s-alert.jsdemo.be](http://react-s-alert.jsdemo.be/)
 
-(Demo created with [react-boilerplate](https://github.com/juliancwirko/react-boilerplate))
+(Demo created with [create-react-app](https://github.com/facebookincubator/create-react-app))
 
 
 ### Development

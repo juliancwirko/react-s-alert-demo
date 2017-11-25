@@ -1,0 +1,88 @@
+.cf:after,
+.cf:before {
+  content: " ";
+  display: table;
+}
+
+.cf:after {
+  clear: both;
+}
+
+.info {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.link {
+  color: #2B5094;
+}
+
+.customButton {
+  color: #000;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.customer {
+  text-align: center;
+}
+
+.header {
+  height: 80px;
+  line-height: 80px;
+  color: #fff;
+  background-color: #2B5094;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 900;
+  margin-right: 50px;
+}
+
+.header a {
+  text-decoration: none;
+  color: #fff;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 14px;
+}
+
+.wrapper {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 100px;
+}
+
+/* buttons */
+
+.button {
+  color: #fff;
+  padding: 10px 30px;
+  display: inline-block;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.buttonWarning {
+  background-color: #f1c40f;
+}
+
+.buttonError {
+  background-color: #e74c3c;
+}
+
+.buttonInfo {
+  background-color: #00a2d3;
+}
+
+.buttonSuccess {
+  background-color: #27ae60;
+}
+
+.buttonDefault {
+  background-color: #4c4c4c;
+}
